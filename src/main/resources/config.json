@@ -1,0 +1,6 @@
+{
+	"maxGenerations": 20,
+	"buildConcurrency": 2,
+	"seedFile": "gridtest.in",
+	"outFile": "gridtest.out"
+}

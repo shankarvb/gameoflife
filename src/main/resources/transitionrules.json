@@ -1,0 +1,12 @@
+[
+	{
+		"currentStatus": 1,
+		"liveNeighborCounts": [0, 1, 4, 5, 6, 7, 8],
+		"newStatus": 0
+	},
+	{
+		"currentStatus": 0,
+		"liveNeighborCounts": [3],
+		"newStatus": 1
+	}
+]
